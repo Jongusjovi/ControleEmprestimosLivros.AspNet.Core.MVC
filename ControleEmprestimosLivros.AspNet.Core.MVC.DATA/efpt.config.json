@@ -1,0 +1,45 @@
+﻿{
+   "CodeGenerationMode": 0,
+   "ContextClassName": "dbContext",
+   "ContextNamespace": null,
+   "DefaultDacpacSchema": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": true,
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Models",
+   "ProjectRootNamespace": "ControleEmprestimosLivros.AspNet.Core.MVC.DATA",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 0,
+   "SelectedToBeGenerated": 0,
+   "Tables": [
+      {
+         "Name": "[dbo].[CLIENTES]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LIVROS]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[dbo].[LIVROSCLIENTES]",
+         "ObjectType": 0
+      }
+   ],
+   "UiHint": "DESKTOP-HIU9F0V\\SQLEXPRESS.ControleEmprestimoLivro",
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDbContextSplitting": false,
+   "UseFluentApiOnly": false,
+   "UseHandleBars": false,
+   "UseInflector": false,
+   "UseLegacyPluralizer": false,
+   "UseNoConstructor": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UseSchemaFolders": false,
+   "UseSpatial": false
+}

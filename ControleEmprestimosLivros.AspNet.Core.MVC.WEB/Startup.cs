@@ -32,6 +32,7 @@ namespace ControleEmprestimosLivros.AspNet.Core.MVC.WEB
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
+                app.UseBrowserLink();
             }
             else
             {
